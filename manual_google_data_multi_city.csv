@@ -1,0 +1,65 @@
+route_id,city,start,end,hour,day,expected_time,actual_time
+# --- KOLKATA ---
+K1,Kolkata,Park Street,Salt Lake,9,1,20,32
+K1,Kolkata,Park Street,Salt Lake,14,1,20,22
+K1,Kolkata,Park Street,Salt Lake,19,1,20,35
+K1,Kolkata,Park Street,Salt Lake,10,6,20,25
+K1,Kolkata,Park Street,Salt Lake,18,0,20,27
+
+K2,Kolkata,Howrah Station,Esplanade,8,1,25,40
+K2,Kolkata,Howrah Station,Esplanade,13,1,25,28
+K2,Kolkata,Howrah Station,Esplanade,18,1,25,45
+K2,Kolkata,Howrah Station,Esplanade,11,6,25,30
+K2,Kolkata,Howrah Station,Esplanade,17,0,25,32
+
+# --- BANGALORE ---
+B1,Bangalore,Whitefield,Marathahalli,9,1,30,55
+B1,Bangalore,Whitefield,Marathahalli,14,1,30,35
+B1,Bangalore,Whitefield,Marathahalli,19,1,30,60
+B1,Bangalore,Whitefield,Marathahalli,11,6,30,40
+B1,Bangalore,Whitefield,Marathahalli,18,0,30,45
+
+B2,Bangalore,Electronic City,Silk Board,8,2,35,65
+B2,Bangalore,Electronic City,Silk Board,13,2,35,42
+B2,Bangalore,Electronic City,Silk Board,18,2,35,70
+B2,Bangalore,Electronic City,Silk Board,10,6,35,48
+B2,Bangalore,Electronic City,Silk Board,17,0,35,50
+
+# --- HYDERABAD ---
+H1,Hyderabad,Hitech City,Gachibowli,9,1,20,35
+H1,Hyderabad,Hitech City,Gachibowli,14,1,20,25
+H1,Hyderabad,Hitech City,Gachibowli,19,1,20,38
+H1,Hyderabad,Hitech City,Gachibowli,11,6,20,27
+H1,Hyderabad,Hitech City,Gachibowli,18,0,20,30
+
+H2,Hyderabad,Secunderabad,Charminar,8,3,28,45
+H2,Hyderabad,Secunderabad,Charminar,13,3,28,32
+H2,Hyderabad,Secunderabad,Charminar,18,3,28,48
+H2,Hyderabad,Secunderabad,Charminar,10,6,28,35
+H2,Hyderabad,Secunderabad,Charminar,17,0,28,36
+
+# --- DELHI ---
+D1,Delhi,Connaught Place,Karol Bagh,9,1,18,30
+D1,Delhi,Connaught Place,Karol Bagh,14,1,18,22
+D1,Delhi,Connaught Place,Karol Bagh,19,1,18,34
+D1,Delhi,Connaught Place,Karol Bagh,11,6,18,24
+D1,Delhi,Connaught Place,Karol Bagh,18,0,18,26
+
+D2,Delhi,Saket,Gurgaon,8,2,35,55
+D2,Delhi,Saket,Gurgaon,13,2,35,40
+D2,Delhi,Saket,Gurgaon,18,2,35,65
+D2,Delhi,Saket,Gurgaon,10,6,35,45
+D2,Delhi,Saket,Gurgaon,17,0,35,48
+
+# --- MUMBAI ---
+M1,Mumbai,Bandra,Andheri,9,1,25,40
+M1,Mumbai,Bandra,Andheri,14,1,25,28
+M1,Mumbai,Bandra,Andheri,19,1,25,45
+M1,Mumbai,Bandra,Andheri,11,6,25,32
+M1,Mumbai,Bandra,Andheri,18,0,25,35
+
+M2,Mumbai,Dadar,Colaba,8,3,30,50
+M2,Mumbai,Dadar,Colaba,13,3,30,35
+M2,Mumbai,Dadar,Colaba,18,3,30,55
+M2,Mumbai,Dadar,Colaba,10,6,30,38
+M2,Mumbai,Dadar,Colaba,17,0,30,40
